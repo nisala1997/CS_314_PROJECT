@@ -1,1 +1,1 @@
-# CS_314_PROJECT
+# CS314 : Image Processing Practical
